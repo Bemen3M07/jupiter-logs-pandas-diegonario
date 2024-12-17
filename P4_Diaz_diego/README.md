@@ -1,4 +1,4 @@
-
+Para corregur este ejercciio tienes que utilizar la carpeta de NOTEBOOKS, ahio esta todo lo de esta practica.
 
 ## Exercici 1: Comandes per treballar amb logs
 
